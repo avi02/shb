@@ -1,0 +1,95 @@
+{
+    "accounts": [
+        {
+            "username": "mejsoes",
+            "password": "dynqyureylok",
+            "shared_secret": "ql+H+vfrvWDIFD3FsYylciWq9LA=",
+            "identity_secret": "JE16IPbBil+0yr1nYsLVa0WILck=",
+            "steam64": "76561199158218220",
+            "revocation_code": "R70420"
+        },
+        {
+            "username": "ronirvinenjwt",
+            "password": "83lDuzSyjG9izzr4",
+            "shared_secret": "hTsKPaHuE7E9ba1V1687RgCU874=",
+            "identity_secret": "QmiT3ylVtrM0dhCEhF1vUp9JulE=",
+            "steam64": "76561199173285676",
+            "revocation_code": "R61343"
+        },
+        {
+            "username": "jalbegal735",
+            "password": "1TygkDCQ2B31sp5d",
+            "shared_secret": "Jirl6oRiuw2PM0nEuKMIfPja1P0=",
+            "identity_secret": "ni+a9NYrMkG9thw557EeUNdE2+Y=",
+            "steam64": "76561199172901211",
+            "revocation_code": "R96730"
+        },
+        {
+            "username": "hedonizma2ig5",
+            "password": "nePDKymhf3JY4RhS",
+            "shared_secret": "8nYuM44K2tvZrWM5xIgDv6b7dv0=",
+            "identity_secret": "PCGZQ3bm20wyC22G4fSm7STpvuU=",
+            "steam64": "76561199173267538",
+            "revocation_code": "R86351"
+        },
+        {
+            "username": "miccinoxse0",
+            "password": "Tt5h7iE5MtNswvq0",
+            "shared_secret": "6Iozs6pDBLZY8Egw7zTTjq9/mMM=",
+            "identity_secret": "2Dk2vG3ETvgo2hyz05RuoyRdv28=",
+            "steam64": "76561199173401141",
+            "revocation_code": "R00371"
+        },
+        {
+            "username": "yesloes",
+            "password": "dynqyureylok",
+            "shared_secret": "0BspdpL/kfSYDSkshVvFS0HqJbs=",
+            "identity_secret": "Soga0T1ZoobxVpE+fnuu2Z39gqg=",
+            "steam64": "76561199157714467",
+            "revocation_code": "R78181"
+        },
+        {
+            "username": "vajazj5d8",
+            "password": "lLmUiSLUUsIMIhqv",
+            "shared_secret": "OuhiEJH1N1pbJh911UdQsZf/j8Q=",
+            "identity_secret": "UL6a6mPh/EwjIpFwRC1V+T5GOJw=",
+            
+        },
+        {
+            "username": "dombomb223ann",
+            "password": "Lqqv5mgbzknGPtPY",
+            "shared_secret": "G0XkFl/hX/0hEtlNtKsUiQCI2ng=",
+            "identity_secret": "+DAwnSqbqe9/DM24MypF90vkCl0=",
+            
+        },
+        {
+            "username": "kvarove3o34",
+            "password": "kEmuhGTtEs5QmfAB",
+            "shared_secret": "9cAJSKSrKyDmxxgdrq5GIMf2dtk=",
+            "identity_secret": "bkG/Uh28HHMr9fzcyTTm/hyxkKA=",
+            
+        },
+        {
+            "username": "gammatikaj7zh",
+            "password": "hQgGusQUz5AVjOEd",
+            "shared_secret": "TyPjW30LpccSi4sjEjNyc+N/Tw0=",
+            "identity_secret": "rAjY0fZ70ar+YRSJJAVCUUHNgVM=",
+            
+        },
+        {
+            "username": "faradhiru6b",
+            "password": "aVY3DlXG06rLVphd",
+            "shared_secret": "/Yo2Z0WI+z4pTuPng6vN9oZc9P8=",
+            "identity_secret": "aiQtZksDIc7nsr3riLk/ZYUt4WQ=",
+            
+        },
+        {
+            "username": "faiffsomesifensjq",
+            "password": "190kum05CouWDbvq",
+            "shared_secret": "kMMBJ5xf8PyKlBzvCUAQConnc6M=",
+            "identity_secret": "a+rn5rOMJ61nggR5lMMX5dztgWc=",
+            
+        },
+      
+    ]
+}

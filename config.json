@@ -1,0 +1,6 @@
+{
+    "__comment": "contextid = 6 for trading cards and gems/ 2 for ingame items. appids: steam:753, tf2:440, rust: 252490,CS:GO : 730",
+    "game": "252490",
+    "tradeReciever": "https://steamcommunity.com/tradeoffer/new/?partner=420356129&token=feOYKTma",
+    "contextID": 2
+}
